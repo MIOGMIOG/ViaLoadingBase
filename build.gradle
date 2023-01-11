@@ -31,7 +31,7 @@ dependencies {
     compileOnly("com.viaversion:viaversion-api:latest.integration")
     compileOnly("com.viaversion:viabackwards-common:latest.integration")
     compileOnly("com.viaversion:viarewind-core:latest.integration")
-    compileOnly("net.raphimc:ViaLegacy:2.1.0")
+    compileOnly("net.raphimc:ViaLegacy:latest.integration")
 
     compileOnly("org.yaml:snakeyaml:1.29")
     compileOnly("com.google.guava:guava:31.1-jre")
